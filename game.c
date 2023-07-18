@@ -18,7 +18,7 @@ int greater(char char1, char char2)
     {
         return 1;
     }
-    else if ((char2 == 'r') && (char1 == 's')) // comp aur player dono ke jeetne ki condition likhi h .
+    else if ((char2 == 'r') && (char1 == 's')) 
     {
         return 0;
     }
